@@ -1,6 +1,6 @@
 # background_job_in_asp.netcore
 
-how to add a background job to the Asp.net core project. Enjoy coding.  
+how to add a background job to the Asp.net core project. Happy coding!
 This code is based on [TimCorey YouTube video](https://www.youtube.com/watch?v=ip3Z4ZcAgA8). \
 In this example code, there is a special data ConcurrentBag.The following code is an example:
 ```C#
